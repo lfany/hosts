@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-05-21
+# Last updated: 2017-05-22
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -38,6 +38,11 @@
 52.216.80.48	github-cloud.s3.amazonaws.com
 54.231.48.40	github-com.s3.amazonaws.com
 # Amazon AWS End
+
+# Heroku Start
+52.85.194.196 www-assets3.herokucdn.com
+52.1.240.62 id.heroku.com
+# Heroku End
 
 # Android Start
 61.91.161.217	android.com
@@ -2925,7 +2930,7 @@
 31.13.70.52	scontent-a.cdninstagram.com
 31.13.70.52	scontent-b.cdninstagram.com
 31.13.69.245	graph.instagram.com
-31.13.95.48	platform.instagram.com
+157.240.11.52	platform.instagram.com
 184.51.15.142	igcdn-photos-a-a.akamaihd.net
 184.51.15.142	igcdn-photos-b-a.akamaihd.net
 184.51.15.142	igcdn-photos-c-a.akamaihd.net
